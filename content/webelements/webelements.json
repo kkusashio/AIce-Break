@@ -1,0 +1,30 @@
+[
+  {
+    "id": "projects",
+    "name": "Our goal",
+    "show":true,
+    "image": "/talking.jpg",
+    "description": "AIce-Breakは英語の新しい教育方法を開発し提供いたします"
+  },
+  {
+    
+    "id": "about",
+    "name": "Kll-One",
+    "image": "/kllone.png",
+    "description": "慶應義塾先端科学技術研究センター（KLL）が主催する学生ビジネスコンテストです。これまで頭の中に秘めていたアイデアや現代社会が直面している課題解決につながるアイデアを個人または複数人でビジネス提案することができます。応募者には、プログラムの最後に予定されているコンテスト（KLL-ONE）に向けたブラッシュアップにつながるサポートを行います。"
+  },
+  {
+    "id": "members",
+    "name": "Members",
+    "show": true,
+    "image": "/membertop.jpg",
+    "description": "現在の主要メンバーを紹介します"
+  },
+  {
+    "id": "contacts",
+    "name": "Contacts",
+    "show": true,
+    "image": "/19366.jpg",
+    "description": "連絡先を知りたい方はこちら"
+  }
+  ]
