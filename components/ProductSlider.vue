@@ -1,6 +1,6 @@
 <template>
     <v-slide-group>
-      <v-slide-item v-for="(p,i) in element1" :key="`hotProduct-${i}`">
+      <v-slide-item v-for="(p,i) in webelements" :key="`hotProduct-${i}`">
         <v-card link color="surface" width="400" class="el ma-2 mb-5 mr-5">
           <v-img height="300" :src="p.image">
             <template #placeholder>

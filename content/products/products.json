@@ -12,7 +12,7 @@
   },
   {
     
-    "id": "about",
+    "id": "",
     "name": "Kll-One",
     "onSale": true,
     "tags": ["Headphone", "People"],
@@ -34,7 +34,7 @@
     "ratings": 4.5
   },
   {
-    "id": "contacts",
+    "id": "",
     "name": "Contacts",
     "onSale": true,
     "tags": ["Nike", "Men"],

@@ -1,11 +1,8 @@
 <template>
   <div>
     <Nav />
-    <h1>マップ</h1>
-    <v-img src="/floorplan.png"></v-img>
-    <br />
-    <h1>宮下パーク混雑状況</h1>
-    <v-img src="/floorhm.png"></v-img>
+    <h1>プロジェクト</h1>
+    <h2>デモ動画</h2>
   </div>
 </template>
 

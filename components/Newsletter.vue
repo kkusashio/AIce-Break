@@ -5,9 +5,8 @@
     <br/>
 
     <v-sheet color="transparent" class="mx-auto" max-width="400">
-      <v-text-field label="Email" type="email" outlined v-model="email">
-      </v-text-field>
-      <v-btn @click="submit" outlined min-height="50" block>Subscribe</v-btn>
+      <!-- <v-text-field label="Email" type="email" outlined v-model="email"> </v-text-field>-->
+      <v-btn outlined min-height="50" block href="https://forms.gle/7nzyXjGH5H61j3hG6" target="_blank" rel="noopener noreferrer">フォームの入力</v-btn>
     </v-sheet>
   </v-card>
 </template>
@@ -19,20 +18,6 @@
         email: null
       }
     },
-    methods:{
-      async submit(){
-        await this.$swal({
-          title:"Thank you for subscribing",
-          icon: 'success',
-          allowOutsideClick: false,
-          allowEscapeKey: false,
-          timer: 4000,
-          timerProgressBar: true,
-          showConfirmButton: false,
-          text:"you will be notified"
-        })
-      }
-    }
   };
   </script>
   
